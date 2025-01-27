@@ -1,4 +1,4 @@
-# Student-Registration-Form-Using-PHP
+# Student-Registration-Form
 This project provides a web-based application form. Built using HTML, CSS (Bootstrap), and JavaScript, it includes sections for personal details, educational background, and course selection.
 
 # How to execute the code 
